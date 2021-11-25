@@ -3,17 +3,17 @@
 
     <item
         android:id="@+id/menu_home"
-        android:title="Home"
-        android:icon="@drawable/ic_dashboard"/>
+        android:title="Frost"
+        android:icon="@drawable/ic_frost"/>
 
     <item
         android:id="@+id/menu_notifications"
-        android:title="Notifications"
-        android:icon="@drawable/ic_notifications"/>
+        android:title="Monarch"
+        android:icon="@drawable/ic_monarch"/>
 
     <item
         android:id="@+id/menu_settings"
-        android:title="Settings"
-        android:icon="@drawable/ic_settings"/>
+        android:title="Backstory"
+        android:icon="@drawable/ic_backstory"/>
 
 </menu>
